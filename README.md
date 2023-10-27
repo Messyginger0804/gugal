@@ -38,12 +38,11 @@ Gugal offers the following features:
 
 Gugal was developed using the following technologies:
 
-- **[Next.js]:**(https://nextjs.org/) A React framework for building server-rendered applications.
-- **[Google's Search API]:**(https://developers.google.com/apis-explorer) Used to fetch search results.
+- **Next.js:** A React framework for building server-rendered applications.(https://nextjs.org/)
+- **Google's Search API:** Used to fetch search results.(https://developers.google.com/apis-explorer)
 - **JavaScript:** For building the application's logic.
 - **HTML and CSS:** For structuring and styling the user interface.
-- **[Tailwind CSS]:**(https://tailwindcss.com/) A utility-first CSS framework for rapid web development.
-
+- **Tailwind CSS:**A utility-first CSS framework for rapid web development.(https://tailwindcss.com/)
 ## How to Use
 
 To experience Gugal and perform searches:
