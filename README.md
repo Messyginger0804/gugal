@@ -21,8 +21,8 @@ This project showcases the use of Next.js, Tailwind CSS, and API integration. It
 
 ## Project Overview
 
-- **Project Name:** Gugal
-- **Developed By:** Jeremy Ashley
+- **Project Name:** [Gugal](https://jcsgoogle.netlify.app/)
+- **Developed By:** [Jeremy Ashley](https://jcsgoogle.netlify.app/)
 - **GitHub Repository:** https://github.com/Messyginger0804/gugal.git
 
 ## Features
@@ -38,11 +38,11 @@ Gugal offers the following features:
 
 Gugal was developed using the following technologies:
 
-- **Next.js:** A React framework for building server-rendered applications.
-- **Google's Search API:** Used to fetch search results.
+- **[Next.js]:**(https://nextjs.org/) A React framework for building server-rendered applications.
+- **[Google's Search API]:**(https://developers.google.com/apis-explorer) Used to fetch search results.
 - **JavaScript:** For building the application's logic.
 - **HTML and CSS:** For structuring and styling the user interface.
-- **Tailwind CSS:** A utility-first CSS framework for rapid web development.
+- **[Tailwind CSS]:**(https://tailwindcss.com/) A utility-first CSS framework for rapid web development.
 
 ## How to Use
 
@@ -77,6 +77,6 @@ License
 This project is open-source, and its code is available in the associated GitHub repository. You are welcome to use, modify, or distribute the code as per the project's license.
 
 Contact
-If you have any questions, feedback, or would like to connect https://www.linkedin.com/in/jeremy-ashley-webdev/
+If you have any questions, feedback, or would like to connect hmu on [LinkedIn](https://www.linkedin.com/in/jeremy-ashley-webdev/)
 
 Thank you for exploring Gugal, and I hope you find it a valuable tool for understanding API integration and web development!
